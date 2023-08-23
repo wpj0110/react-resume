@@ -1,0 +1,15 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+}
+
+#about-me-tech-skills {
+    display: flex;
+}
+
+.about-me-tech-skills-item {
+    display:flex;
+    flex: 1;
+    flex-direction: column;
+}
