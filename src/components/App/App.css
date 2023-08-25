@@ -1,0 +1,33 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+}
+
+#about-me-tech-skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4rem;
+}
+
+#my-name-container {
+    justify-content: center;
+    display:flex;
+    font-family: 'Song Myung', serif;
+    font-size: 50px;
+}
+
+#my-name {
+    background-color: rgb(4, 42, 25);
+    padding: 0.5%;
+    border-radius: 7%;
+}
+
+.about-me-tech-skills-item {
+    display:flex;
+    flex: 1;
+    flex-direction: column;
+    min-width: 14rem;
+    max-width: 35rem;
+}

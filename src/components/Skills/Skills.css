@@ -1,0 +1,21 @@
+.cards-container {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.skill-card {
+    padding: 0.5em;
+    border-radius: 5pt;
+    align-items: center;
+}
+
+.card-light-mode {
+    color: black; 
+    background-color:lightGrey;
+}
+
+.card-dark-mode {
+    color: white; 
+    background-color:grey;
+}
