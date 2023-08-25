@@ -1,4 +1,3 @@
-import SelectedSkills from '../SelectedSkills/Selected-Skills';
 import React, { useState } from 'react';
 import './Skills.css';
 
