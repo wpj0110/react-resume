@@ -11,4 +11,9 @@
     gap: 2.5rem;
     justify-content: center;
 }
+.cards-container {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
 

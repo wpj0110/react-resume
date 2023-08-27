@@ -9,11 +9,15 @@
     border-width: 1em;
     border-style: solid;
 
+    text-align: center;
+
+    height: fit-content;
+
     padding:0.5em
 }
 
-.project-title, .project-description {
-    display:flex;
+.project-title {
+    display: flex;
     justify-content: center;
 }
 
@@ -28,4 +32,10 @@
 .project-title:hover {
     cursor: pointer;
     background-color:aqua;
+}
+
+.project-description {
+    display:inline-flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
