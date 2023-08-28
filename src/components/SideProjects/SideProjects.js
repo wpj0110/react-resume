@@ -28,7 +28,7 @@ function SideProjects(props) {
     </div>);
 
 
-    const project1 = new SideProject("Electric Vehicles Population",washingtonElectricVehiclesPopulationDescription,"google.com");
+    const project1 = new SideProject("Electric Vehicles Population",washingtonElectricVehiclesPopulationDescription,"wpj0110.github.io/electric-vehicles-population/");
     const project2 = new SideProject("Project2",placeHolderDescription,"bing.com");
     const project3 = new SideProject("Project3",placeHolderDescription,"gsmarena.com");
 
